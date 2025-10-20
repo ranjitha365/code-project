@@ -1,0 +1,6 @@
+bro_name = input("Bro_name")
+bro_marks = input("bro_marks")
+sis_name = input("sis_name")
+sis_marks = input("sis_marks")
+marks_diff = ("bro_marks-sis_marks")
+print(f"{bro_name} {sis_name} marks diff is {marks_diff}")
