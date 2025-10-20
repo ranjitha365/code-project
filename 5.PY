@@ -1,0 +1,6 @@
+name = input("Enter your name>>")
+age = input ("enter your age>>")
+price = input ("clothes price>>")
+print("Welcom, name")
+print("age:", age)
+print("price:", price)
